@@ -100,14 +100,6 @@ class doAll(QMainWindow):
         self.close()
         
 
-        
-    # def close(self):
-    #     self.close()
-
-# class doAll(QMainWindow):
-#     def __init__(self):
-#         super(doAll, self).__init__()
-#         loadUi("doAll.ui",self)
 
     
  
